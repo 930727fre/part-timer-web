@@ -1,0 +1,21 @@
+﻿html {
+    height:100%;
+}
+body {
+    font-family: Microsoft JhengHei;;
+    background:#bbb;
+    height:100%;
+}
+.grid {
+    height: auto;
+    padding:0;
+    background: #ffffff;
+}
+.container {
+    display:block !important;
+    background: #ffffff;
+    margin:0;
+    padding:5px;
+    height:auto;
+}
+

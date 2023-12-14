@@ -1,0 +1,11 @@
+﻿.select{
+	padding:5px;
+	border:1px solid #bbb;
+	border-radius:5px
+}
+
+.select:hover{
+	cursor:pointer;
+	background:#bbb;
+}
+

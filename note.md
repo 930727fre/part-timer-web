@@ -1,0 +1,2 @@
+ - db: `postgreSQL`
+ - To show all databases: `SELECT datname FROM pg_database;`

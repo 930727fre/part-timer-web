@@ -312,7 +312,7 @@ if (isset($data)) {
       	var mm = date.getMonth() + 1; //January is 0!
         var dd = date.getDate();
     	if (hours >= 12) {				//於2022/10/20號要求此功能，下午三點後不開放勞雇型與教學助理申請
-            alert('系統開放時間:0時至當日中午12點\n工讀生、教學助理聘用申請，請於中午12點前登錄送出。');
+            alert('系統開放時間:0時至當日qq中午12點\n工讀生、教學助理聘用申請，請於中午12點前登錄送出。');
             return;
         }
        	else {
